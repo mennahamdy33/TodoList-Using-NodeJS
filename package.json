@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mennahamdy33/TodoList-Using-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mennahamdy33/TodoList-Using-NodeJS/issues"
+  },
+  "homepage": "https://github.com/mennahamdy33/TodoList-Using-NodeJS#readme",
+  "dependencies": {
+    "commander": "^9.1.0"
+  }
+}
